@@ -1,3 +1,0 @@
-Welcome to git
-added some features
-this is modified
